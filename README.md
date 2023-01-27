@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IB9Qfp-29lmBU4KbJRSj1XTlXoudtzqW/view?usp=sharing](https://drive.google.com/file/d/1IB9Qfp-29lmBU4KbJRSj1XTlXoudtzqW/view?usp=sharing)
 
-- **My hoobies are:** Soccer :soccer: | Books :books: | Working out :weight_lifting: | Hip hop :musical_note:**
+- **My hoobies are:** Soccer :soccer: | Books :books: | Working out :weight_lifting: | Hip hop :musical_note: | Coding :computer:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
