@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ygor Alves</h1>
 <h3 align="center">A Data Scientist from Brazil :brazil:</h3>
 
-- 🔭 I’m currently working on [Classifications Projects](https://github.com/ygorbalves/classification-cat-dog.git)
+- 🔭 I’m currently working on [Predict the Median House Price](https://github.com/ygorbalves/predict-house-price .git)
 
 - 🌱 I’m currently learning **Digital Twins | AWS**
 
