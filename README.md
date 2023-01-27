@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Predict the Median House Price](https://github.com/ygorbalves/predict-house-price.git)
 
-- 🌱 I’m currently learning **Digital Twins | AWS**
+- 🌱 I’m currently learning ** Machine Learning | Digital Twins | AWS**
 
 - 👯 I’m looking to collaborate on **ML projects**
 
