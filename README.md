@@ -26,8 +26,6 @@
 
 - 📄[CV with my experiences here.](https://drive.google.com/file/d/1IB9Qfp-29lmBU4KbJRSj1XTlXoudtzqW/view?usp=sharing)
 
-- **My hoobies are:** Soccer :soccer: | Books :books: | Working out :weight_lifting: | Hip hop :musical_note: | Coding :computer:
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ygor-alvess/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ygor-alvess/" height="30" width="40" /></a>
