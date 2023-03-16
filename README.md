@@ -1,19 +1,30 @@
 <h1 align="center">Hi 👋 I'm Ygor Alves</h1>
 <h3 align="center">A Data Scientist from Brazil :brazil:</h3>
 
-- 🔭 I’m currently working on [Predict Air Quality - São Paulo](https://github.com/ygorbalves/predict-air-quality)
+**Artificial Intelligence | Python | Machine Learning | SQL | Electrical Engineering**
 
-- 🌱 I’m currently learning **Machine Learning | Digital Twins | AWS**
+------------ 👨‍💻 Main Projects 👨‍💻 ------------
 
-- 👯 I’m looking to collaborate on **ML projects**
+⚫ **Solar Tracker Control AI Based**
+- Software developed for make a optimized estimation of the positioning of photovoltaic panels in operation, through the action of Solar-Trackers. This computational tool is based on the application of Artificial Intelligence (AI) techniques. The implemented predictive algorithm provided energy generation gain above 1.2% compared to commercial systems. Considering the application in large-scale solar plants, this gain can represent significant financial gains.
+- The main tools used were: SQL Server for data storage, AirFlow for managing dags, Huawei Cloud for running algorithms in the cloud, Python for implementing models, SQL queries for database queries, use of Git/Github. Machine Learning algorithms: Linear Regression, Random Forest, Decision Trees, K-Nearest Neighbors (KNN). Deep Learning algorithms: Multilayer Perceptron (MLP) neural net and Long Short-Term Memory (LSTM).
 
-- 👨‍💻 All of my projects are available at [https://github.com/ygorbalves](https://github.com/ygorbalves)
+⚫ **Multiclass Classification Competition** 
+- The objective is create models to predict which agent causes SRAG (Severe Acute Respiratory Syndrome) based on patient data and symptoms.
+- The Ministry of Health (MS), through the Health Surveillance Secretariat (SVS), develops surveillance of Severe Acute Respiratory Syndrome (SARS) in Brazil, since the Influenza A(H1N1)pdm09 pandemic. From this, SARS surveillance was implemented in the surveillance network for Influenza and other respiratory viruses, which previously operated exclusively with sentinel surveillance of Influenza Syndrome (SG).
 
-- 💬 Ask me about **Artificial Intelligence | Python | Machine Learning | SQL | Electrical Engineering**
+⚫ **Image Classification Cat or Dog** 
+- The project consists of a neural network trained to classify, based on a photo sent by the user, whether it is a cat or a dog. For this, a database was used with each class (cat or dog), performing the training of the neural network model.
+- The model obtained an accuracy of more than 90%. It is important to highlight that this application can be used in different classification scenarios of two or more classes, based on photos or information entered by the user.
 
-- 📫 How to reach me **ygorbalves222@gmail.com**
+⚫ **Fast Fourier Transform vs Discrete Fourier Transform**
+- Comparation of the time of processing using Python between the DFT and FFT. FFT is based on theory of John Tukey and used for fast analysis on Frequency Domain. 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IB9Qfp-29lmBU4KbJRSj1XTlXoudtzqW/view?usp=sharing](https://drive.google.com/file/d/1IB9Qfp-29lmBU4KbJRSj1XTlXoudtzqW/view?usp=sharing)
+------------ :e-mail: **How to reach me** :e-mail: ------------
+ 
+- **ygorbalves222@gmail.com** and **(83) 998643143**
+
+- 📄[CV with my experiences here.](https://drive.google.com/file/d/1IB9Qfp-29lmBU4KbJRSj1XTlXoudtzqW/view?usp=sharing)
 
 - **My hoobies are:** Soccer :soccer: | Books :books: | Working out :weight_lifting: | Hip hop :musical_note: | Coding :computer:
 
