@@ -16,7 +16,7 @@
 ---------------------------------------------------
 ⚫ **Multiclass Classification Competition** 
 
-<img src="https://user-images.githubusercontent.com/77367268/226183318-17570043-5d87-40c1-ae5f-8fa4a4503185.png"  width="350" height="260" align="left">
+<img src="https://user-images.githubusercontent.com/77367268/226183318-17570043-5d87-40c1-ae5f-8fa4a4503185.png"  width="350" height="270" align="left">
 
 --- The objective is create models to predict which agent causes SRAG (Severe Acute Respiratory Syndrome) based on patient data and symptoms. The challenge of the competition is: multiclassification problem with data imbalaced.
 
