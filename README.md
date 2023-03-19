@@ -7,7 +7,7 @@
 
 ⚫ **Solar Tracker Control AI Based**
 
-<img src="https://user-images.githubusercontent.com/77367268/226183282-3647760a-d597-427d-a32a-6c21da476484.png"  width="400" height="300" align="left">
+<img src="https://user-images.githubusercontent.com/77367268/226183282-3647760a-d597-427d-a32a-6c21da476484.png"  width="350" height="260" align="left">
 
  --- Software developed for make a optimized estimation of the positioning of photovoltaic panels in operation, through the action of Solar-Trackers. This computational tool is based on the application of Artificial Intelligence (AI) techniques. The implemented predictive algorithm provided energy generation gain above 1.2% compared to commercial systems. Considering the application in large-scale solar plants, this gain can represent significant financial gains.
  
@@ -16,7 +16,7 @@
 ---------------------------------------------------
 ⚫ **Multiclass Classification Competition** 
 
-<img src="https://user-images.githubusercontent.com/77367268/226183318-17570043-5d87-40c1-ae5f-8fa4a4503185.png"  width="400" height="300" align="left">
+<img src="https://user-images.githubusercontent.com/77367268/226183318-17570043-5d87-40c1-ae5f-8fa4a4503185.png"  width="350" height="250" align="left">
 
 --- The objective is create models to predict which agent causes SRAG (Severe Acute Respiratory Syndrome) based on patient data and symptoms. The challenge of the competition is: multiclassification problem with data imbalaced.
 
@@ -27,7 +27,7 @@
 ---------------------------------------------------
 ⚫ **Image Classification Cat or Dog** 
 
-<img src="https://user-images.githubusercontent.com/77367268/226183304-50884ed3-b1d0-4c85-8368-d8cc89573d0e.png"  width="400" height="300" align="left">
+<img src="https://user-images.githubusercontent.com/77367268/226183304-50884ed3-b1d0-4c85-8368-d8cc89573d0e.png"  width="350" height="250" align="left">
 <br>
 <br>
 --- The project consists of a neural network trained to classify, based on a photo sent by the user, whether it is a cat or a dog. For this, a database was used with each class (cat or dog), performing the training of the neural network model.
