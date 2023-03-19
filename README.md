@@ -11,7 +11,7 @@
 
  --- Software developed for make a optimized estimation of the positioning of photovoltaic panels in operation, through the action of Solar-Trackers. This computational tool is based on the application of Artificial Intelligence (AI) techniques. The implemented predictive algorithm provided energy generation gain above 1.2% compared to commercial systems. Considering the application in large-scale solar plants, this gain can represent significant financial gains.
  
- --- The main tools used were: SQL Server for data storage, AirFlow for managing dags, Huawei Cloud for running algorithms in the cloud, Python for implementing models, SQL queries for database queries, use of Git/Github. Machine Learning algorithms: Linear Regression, Random Forest, Decision Trees, K-Nearest Neighbors (KNN). Deep Learning algorithms: Multilayer Perceptron (MLP) neural net and Long Short-Term Memory (LSTM).
+ --- The main tools used were: SQL Server for data storage, AirFlow for managing dags, Huawei Cloud for running algorithms in the cloud, Python for implementing models, SQL queries for database queries, use of Git/Github. Machine Learning algorithms: Linear Regression, Random Forest, Decision Trees, K-Nearest Neighbors. Deep Learning algorithms: Multilayer Perceptron (MLP) and Long Short-Term Memory (LSTM).
   
 ---------------------------------------------------
 ⚫ **Multiclass Classification Competition** 
