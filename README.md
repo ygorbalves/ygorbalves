@@ -7,7 +7,7 @@
 
 ⚫ **Solar Tracker Control AI Based**
 
-<img src="https://user-images.githubusercontent.com/77367268/226183282-3647760a-d597-427d-a32a-6c21da476484.png"  width="350" height="260" align="left">
+<img src="https://user-images.githubusercontent.com/77367268/226183282-3647760a-d597-427d-a32a-6c21da476484.png"  width="350" height="270" align="left">
 
  --- Software developed for make a optimized estimation of the positioning of photovoltaic panels in operation, through the action of Solar-Trackers. This computational tool is based on the application of Artificial Intelligence (AI) techniques. The implemented predictive algorithm provided energy generation gain above 1.2% compared to commercial systems. Considering the application in large-scale solar plants, this gain can represent significant financial gains.
  
